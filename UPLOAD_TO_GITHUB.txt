@@ -1,0 +1,25 @@
+LUMI PERSONAL GITHUB BUILD PACKAGE
+
+Upload ALL files and folders in this package directly into the ROOT of a new personal github.com repository named Lumi.
+
+The repository root must show these items:
+  .github/
+  app/
+  build.gradle
+  settings.gradle
+  README.md
+
+IMPORTANT:
+Do NOT upload the outer Lumi-GitHub-Personal folder as a folder inside the repository.
+The .github folder must be directly at the repository root.
+
+After upload and commit:
+1. Click Actions.
+2. Choose "Build Lumi APK".
+3. Click "Run workflow" if a build is not already running.
+4. Wait for the green checkmark.
+5. Open the completed workflow.
+6. Download the artifact named "Lumi-debug-apk".
+7. Extract it and install app-debug.apk on the Android phone.
+
+This is a prototype/debug build for testing.

@@ -1,0 +1,11 @@
+LUMI v0.6 CUMULATIVE UPDATE
+
+Install this APK over the previously installed Lumi version.
+Do NOT uninstall Lumi first.
+Package: com.distressedelk.lumi
+Version code: 6
+
+New in this version:
+Everything in v0.5 plus integration center, emergency-contact setup and a safe 30-second emergency-flow test.
+
+IMPORTANT: v0.6 is the full PHONE PROTOTYPE, not the full production companion. External services such as the live Ray-Ban Meta SDK, OpenAI/Meta API credentials, Gmail/Calendar OAuth, and smart-home credentials still require real service connections.
